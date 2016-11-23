@@ -113,6 +113,13 @@
             android:layout_gravity="center"
             android:hint="SANTOSH GAIKAR"
             app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SANTOSH GAIKAR"
+            app:textFontFamily="@string/fu__default_font_family" />
     </LinearLayout>
 
 
