@@ -118,7 +118,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="SANTOSH GAIKAR"
+            android:text="santosh gaikar"
             app:textFontFamily="@string/fu__default_font_family" />
     </LinearLayout>
 
