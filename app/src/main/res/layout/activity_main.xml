@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.appnirman.fonttest.MainActivity"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="81dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="10dp">
+
+        <com.appnirman.fontutils.TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Santosh Gaikar"
+            android:textSize="25sp"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SANTOSH GAIKAR"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Santosh Gaikar"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SANTOSH GAIKAR"
+            android:textSize="25sp"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Santosh Gaikar"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SANTOSH GAIKAR"
+            android:textStyle="bold"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Santosh Gaikar"
+            android:textStyle="bold"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SANTOSH GAIKAR"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SANTOSH GAIKAR"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SANTOSH GAIKAR"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.AutoCompleteTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="SANTOSH GAIKAR"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="SANTOSH GAIKAR"
+            app:textFontFamily="@string/fu__default_font_family" />
+
+        <com.appnirman.fontutils.TextInputtEditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="SANTOSH GAIKAR"
+            app:textFontFamily="@string/fu__default_font_family" />
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

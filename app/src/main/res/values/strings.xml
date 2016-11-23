@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FontTest</string>
+
+    <string name="fu__default_font_family">MavenPro</string>
+
+    <string-array name="fu__font_family_resources">
+        <item>MavenPro--normal=fonts/mavenpro_regular.ttf,bold=fonts/mavenpro_bold.ttf</item>
+    </string-array>
+</resources>
